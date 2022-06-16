@@ -23,7 +23,7 @@ Please follow the below instructions to run this project in your computer:
 
 2. Change the directory
    ```sh
-   cd mern-backend-boilerplate
+   cd mern-frontend-boilerplate
    ```
 3. Install All Dependencies
    ```sh
